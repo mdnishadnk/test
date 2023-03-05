@@ -1,2 +1,2 @@
-This is about Git 1
-head2
+This is about Git 1 
+head2 
